@@ -1,0 +1,1 @@
+/home/choupisson/.config/omarchy/current/theme/neovim.lua
